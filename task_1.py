@@ -8,7 +8,7 @@ m = 750
 Output:
 """
 from math import ceil
-
+a = 33
 m = 750
 n = 700
 print(ceil(m / n))
