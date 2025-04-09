@@ -12,3 +12,4 @@ from math import ceil
 m = 750
 n = 700
 print(ceil(m / n))
+print("hello")
